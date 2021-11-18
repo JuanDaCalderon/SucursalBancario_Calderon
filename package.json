@@ -1,0 +1,17 @@
+{
+  "name": "sucursal_bancario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx tsc src/index.ts",
+    "watch": "npx tsc -w src/index.ts",
+    "debug": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
