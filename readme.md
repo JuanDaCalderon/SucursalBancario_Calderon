@@ -19,9 +19,9 @@ _Para instalar las dependencias con node_
 
 _Puedes ejecutar los siguientes scripts desde la carpeta raíz “cd SUCURSALBANCARIO_CALDERON”_
 
-* npm run compile - transpilar typescript en javascript.
-* npm run watch - El proyecto queda en modo de observación para detectar algún cambio en el typescript y transpilarlo.
-* npm run debug - Ejecutamos en javascript transpilado en la terminal (No es necesario ya que tenemos un front).
+* **npm run compile** - transpilar typescript en javascript.
+* **npm run watch** - El proyecto queda en modo de observación para detectar algún cambio en el typescript y transpilarlo.
+* **npm run debug** - Ejecutamos en javascript transpilado en la terminal (No es necesario ya que tenemos un front).
 
 * Para poder ver el proyecto debemos abrir el **index.html** en un navegador
 
