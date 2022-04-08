@@ -37,7 +37,7 @@ V1.0.0
 
 ## Autores ✒️
 
-* **Juan David Calderón Jiménez** - *Trabajo Inicial* - (https://github.com/JuanDaCalderon)
+* **Juan David Calderón Jiménez** - (https://github.com/JuanDaCalderon)
 
 ## Gratitud 🎁
 ---
